@@ -13,10 +13,9 @@ title                    : "Can Huang"
 title_separator          : "-"
 name                     : &name "Can Huang"
 description              : &description "Research Staff in power systems, renewable energy integration, and energy data analytics."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : http://localhost:4000 # Local demo URL. Update before publishing to GitHub Pages.
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://leocuisine.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leocuisine/can-web"
+repository               : "leocuisine/leocuisine.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
