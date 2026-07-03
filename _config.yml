@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Can Huang"
 title_separator          : "-"
 name                     : &name "Can Huang"
-description              : &description "Research Staff in power systems, renewable energy integration, and energy data analytics."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://canhuang.cloud
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leocuisine/leocuisine.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "can-huang.jpg"
   name             : "Can Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Research Staff specializing in power system planning and operation, renewable energy integration, and energy and customer data analytics."
+  bio              : # 
   location         : "Nanjing, China"
   employer         : "Southeast University"
   uri              : # URL
