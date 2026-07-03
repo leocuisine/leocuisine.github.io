@@ -12,6 +12,11 @@ Can Huang is a Research Staff member working on power system planning and operat
 [Email](mailto:canhuang@seu.edu.cn){: .btn .btn--primary}
 [Google Scholar](https://scholar.google.com/citations?user=uYdj_dQAAAAJ&hl=en){: .btn}
 
+Publications
+======
+
+My arciles can be found at [Google Schoalr](https://scholar.google.com/citations?user=uYdj_dQAAAAJ&hl=en)
+
 Research Directions
 ======
 
