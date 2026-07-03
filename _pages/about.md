@@ -15,7 +15,7 @@ Can Huang is a Research Staff member working on power system planning and operat
 Publications
 ======
 
-My arciles can be found at [Google Schoalr](https://scholar.google.com/citations?user=uYdj_dQAAAAJ&hl=en)
+My papers can be found at [Google Schoalr](https://scholar.google.com/citations?user=uYdj_dQAAAAJ&hl=en)
 
 Research Directions
 ======
