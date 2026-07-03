@@ -17,6 +17,11 @@ Publications
 
 My arciles can be found at [Google Schoalr](https://scholar.google.com/citations?user=uYdj_dQAAAAJ&hl=en)
 
+Publications
+======
+
+My arciles can be found at [Google Schoalr](https://scholar.google.com/citations?user=uYdj_dQAAAAJ&hl=en)
+
 Research Directions
 ======
 
