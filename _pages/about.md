@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Can Huang is a Research Staff Member at Southeast University, Nanjing, China.
+Can Huang is a Research Staff at Southeast University, Nanjing, China.
 
 [Email](mailto:canhuang@seu.edu.cn){: .btn .btn--primary}
 [Google Scholar](https://scholar.google.com/citations?user=uYdj_dQAAAAJ&hl=en){: .btn}
@@ -50,7 +50,7 @@ Professional Service
 - Associate Editor, IEEE Transactions on Smart Grid (2021-now)
 - Associate Editor, IEEE Open Access Journal of Power and Energy (2020-2026)
 - Associate Editor, Journal of Modern Power Systems and Clean Energy (2018-now)
-- Technical Committee Program Chair, IEEE PES Smart Buildings, Loads and Customer Systems Committee (2025-now) 
+- TCPC, IEEE PES Smart Buildings, Loads and Customer Systems Committee (2025-now) 
 - Secretary, IEEE PES Smart Building and Customer Systems Subcommittee (2021-2024)
 
 
