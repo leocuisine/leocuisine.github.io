@@ -68,7 +68,7 @@ Awards and Honors
 - Best Reviewer of IEEE Transactions on Smart Grid, 2019
 - Best Reviewer of IEEE Transactions on Sustainable Energy, 2017
 - Best Reviewer of ASCE Journal of Energy Engineering, 2017
-- Forerunners 5000 Best Paper Award (Top-Cited Paper Award, Ministry of Science and Technology, China), 2016
+- Forerunners 5000 Best Paper Award, 2016
 - Chinese Government Award for Outstanding Student Abroad, 2016
 - University of Tennessee Chancellor’s Citation Award, 2016
 - Best Master’s Thesis of Jiangsu Province, 2011
